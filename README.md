@@ -245,9 +245,6 @@ Screenshots are available in the `screenshots/` folder:
 - Program execution samples
 - File system structure
 
-### Demo Video
-A demonstration video is available at: [Demo Link]
-
 ## Future Enhancements
 
 - Web-based user interface
