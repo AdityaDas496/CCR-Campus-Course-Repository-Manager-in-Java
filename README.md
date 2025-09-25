@@ -240,8 +240,8 @@ Assertions are used for:
 
 ### Screenshots
 Screenshots are available in the `screenshots/` folder:
-- JDK installation verification
-- Eclipse project setup
+- JDK installation verification and Eclipse project setup
+  ![Eclipse Import Project](screenshots/eclipse installer.png)
 - Program execution samples
 - File system structure
 
