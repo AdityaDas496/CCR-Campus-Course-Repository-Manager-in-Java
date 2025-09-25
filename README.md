@@ -241,9 +241,26 @@ Assertions are used for:
 ### Screenshots
 Screenshots are available in the `screenshots/` folder:
 - JDK installation verification and Eclipse project setup
+  
   ![Eclipse Installer](screenshots/eclipse%20installer.png)
+  
+  ![Eclipse Installer](screenshots/eclipse%20foundation%20software%20user%20agreement%20versions.png)
+  
 - Program execution samples
+
+  ![Eclipse Installer](screenshots/1.png)
+
+  ![Eclipse Installer](screenshots/2.png)
+
+  ![Eclipse Installer](screenshots/3.png)
+
+  ![Eclipse Installer](screenshots/4.png)
+
 - File system structure
+
+  ![Eclipse Installer](screenshots/File%20location.png)
+
+  ![Eclipse Installer](screenshots/Package%20Structure.png)
 
 ## Future Enhancements
 
