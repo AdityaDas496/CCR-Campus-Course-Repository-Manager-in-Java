@@ -248,19 +248,19 @@ Screenshots are available in the `screenshots/` folder:
   
 - Program execution samples
 
-  ![Eclipse Installer](screenshots/1.png)
+  ![Eclipse Installer](screenshots/1.jpeg)
 
-  ![Eclipse Installer](screenshots/2.png)
+  ![Eclipse Installer](screenshots/2.jpeg)
 
-  ![Eclipse Installer](screenshots/3.png)
+  ![Eclipse Installer](screenshots/3.jpeg)
 
-  ![Eclipse Installer](screenshots/4.png)
+  ![Eclipse Installer](screenshots/4.jpeg)
 
 - File system structure
 
-  ![Eclipse Installer](screenshots/File%20location.png)
+  ![Eclipse Installer](screenshots/File%20location.jpeg)
 
-  ![Eclipse Installer](screenshots/Package%20Structure.png)
+  ![Eclipse Installer](screenshots/Package%20Structure.jpeg)
 
 ## Future Enhancements
 
