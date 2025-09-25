@@ -241,7 +241,7 @@ Assertions are used for:
 ### Screenshots
 Screenshots are available in the `screenshots/` folder:
 - JDK installation verification and Eclipse project setup
-  `screenshots/eclipse installer.png`
+  ![Eclipse Installer](screenshots/eclipse%20installer.png)
 - Program execution samples
 - File system structure
 
